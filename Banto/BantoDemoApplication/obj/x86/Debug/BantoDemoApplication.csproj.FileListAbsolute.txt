@@ -1,0 +1,12 @@
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\BantoDemoApplication.Form1.resources
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\BantoDemoApplication.Properties.Resources.resources
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\ResGen.read.1.tlog
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\ResGen.write.1.tlog
+D:\Projetos\Banto\BantoDemoApplication\bin\Debug\BantoDemoApplication.exe
+D:\Projetos\Banto\BantoDemoApplication\bin\Debug\BantoDemoApplication.pdb
+D:\Projetos\Banto\BantoDemoApplication\bin\Debug\Banto.dll
+D:\Projetos\Banto\BantoDemoApplication\bin\Debug\Banto.pdb
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\BantoDemoApplication.exe
+D:\Projetos\Banto\BantoDemoApplication\obj\x86\Debug\BantoDemoApplication.pdb
+D:\Projetos\Banto\BantoDemoApplication\bin\Debug\BantoDemoApplication.exe.config

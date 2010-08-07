@@ -1,0 +1,5 @@
+D:\Projetos\Banto\Banto\bin\Debug\Banto.dll
+D:\Projetos\Banto\Banto\bin\Debug\Banto.pdb
+D:\Projetos\Banto\Banto\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\Banto\Banto\obj\Debug\Banto.dll
+D:\Projetos\Banto\Banto\obj\Debug\Banto.pdb
